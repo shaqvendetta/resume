@@ -1,0 +1,81 @@
+
+div{
+	border-radius: 5px;
+	margin-left: 300px;
+    clear: left;
+	float: left; 
+    margin-bottom: 50px;
+    width: 63%; 
+}
+html{
+	background-color: lightblue;
+}
+
+#name{
+	font-family: Georgia, "Times New Roman";
+	text-align: left;
+	font-weight: bold;
+	font-style: italic;
+}
+
+img{
+	float: right;
+	position: absolute;
+	margin: 0 0 10px 10px;
+	 padding: 10px;
+    background-color: lightblue;
+	height: 200px;
+	width: 25%;
+	left: 1000px;
+    border: solid black;
+    transform: rotate(355deg);
+
+}
+
+
+.education b{
+	float: left;
+	position: absolute;
+	left: 200px;
+	border-right: solid black;
+	padding-right: 20px;
+	padding-bottom: 40px;
+}
+
+.Skills b{
+	float: left;
+	position: absolute;
+	left: 200px;
+	border-right: solid black;
+	padding-right: 53px;
+	padding-bottom: 100px;
+}
+
+.Work b{
+	float: left;
+	text-align: left;
+	padding-right: 0px;
+	padding-bottom: 70px;
+	position: absolute;
+	left: 200px;
+	border-right: solid black;
+	width: 88px;
+}
+
+.Hobbies b{
+	float: left;
+	position: absolute;
+	left:200px;
+	border-right: solid black;
+	padding-right:34px;
+	padding-bottom:90px;
+}
+
+.References b{
+	float: left;
+	position: absolute;
+	left:200px;
+	border-right: solid black;
+	padding-right:16px;
+	padding-bottom:70px;
+}
